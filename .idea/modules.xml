@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BeforeFramework/.idea/BeforeFramework.iml" filepath="$PROJECT_DIR$/../BeforeFramework/.idea/BeforeFramework.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/End2EndFramework.iml" filepath="$PROJECT_DIR$/.idea/End2EndFramework.iml" />
     </modules>
   </component>
